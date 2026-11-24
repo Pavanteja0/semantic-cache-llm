@@ -28,6 +28,7 @@ A false hit means a near-miss question (for example "enable" vs "disable" two fa
 Standard library only.
 
 ## Demo and try it
+- **Live app, no install:** https://pavan-semantic-cache.streamlit.app (free hosting, may take a few seconds to wake up)
 - Demo video with voiceover (45 s): [demo/demo.mp4](demo/demo.mp4)
 - Run the Streamlit app yourself on any machine with Python 3.10+:
 
